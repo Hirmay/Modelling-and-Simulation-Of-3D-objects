@@ -1,4 +1,4 @@
-#Modelling and Simulation Of 3D objects
+# Modelling and Simulation Of 3D objects
 
 In this project, we’ll try to Model Objects and animation by using applications of linear
 algebra such as Translation, Transformation Matrices, and Multiple Transformation
